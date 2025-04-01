@@ -1655,5 +1655,6 @@
 - [Wlwool](https://github.com/Wlwool)   
 - [Nick-Lemy K.](https://github.com/Nick-Lemy)
 - [Pravallika Panyam](https://github.com/panyampravallika)
--[Biokes](https://github.com/Biokes)
+- [Biokes](https://github.com/Biokes)
 - [Faraz Mirza](https://github.com/code-with-faraz)
+- [Sanjaithun](https://github.com/Sanjaithun)
