@@ -1,7 +1,9 @@
 # Contributors
 
 - [Jonathan B. Liu](https://github.com/JBL168)
+- [Tamilarasan](https://github.com/tamizhasn)
 - [Meet Mehta](https://github.com/MeetInCode)
+- [Karthikeyen K](https://github.com/KARTHIKEYEN14)
 - [Balaji Balakrishnan](https://github.com/balajibalakris)
 - [Nithin M S](https://github.com/Nithin3003)
 - [Sabona Waktole](https://github.com/SabonaWaktole)
@@ -72,6 +74,7 @@
 - [camonayc](https://github.com/camonayc)
 - [ZhIIhaoc](https://github.com/ZhIIhaoc)
 - [Nuno Pontes](https://github.com/n-pontes)
+- [Naman Bansal](https://github.com/namanbnsl)
 -[kenrodgers wainaina] (https://github.com/k3n-bat)
 - [Fahim_Al_Rashid](https://github.com/fahimar)
 - [Virat Shandilya](https://github.com/viraaattttt)
